@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i1n7hqpg0vvr95l6?svg=true)](https://ci.appveyor.com/project/VlCherno/testmode)
+[![Build status](https://ci.appveyor.com/api/projects/status/byib7l3rkdxi69gu?svg=true)](https://ci.appveyor.com/project/VlCherno/testmode-ki5fh)
 ## Задача №2 - Тестовый режим
 
 Разработчики Интернет Банка изрядно поворчав предоставили вам тестовый режим запуска целевого сервиса, в котором открыта программная возможность создания Клиентов Банка, чтобы вы могли протестировать хотя бы функцию входа.
